@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#040927"
+    android:padding="16dp"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/iv35">
+    </ImageView>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_marginTop="16dp"
+        android:text="Quiz YourSelf Daily"
+        android:textColor="@color/white"
+        android:layout_height="wrap_content">
+    </TextView>
+
+</LinearLayout>
